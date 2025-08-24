@@ -1,3 +1,5 @@
+<h2>🔗 URL Shortener</h2>
+
 A simple and efficient URL shortener built with <b>Python Django</b>. This application allows users to shorten long URLs into compact links, manage them, and redirect seamlessly.
 
 
