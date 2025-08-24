@@ -2,19 +2,19 @@ A simple and efficient URL shortener built with <b>Python Django</b>. This appli
 
 
 🚀 Features
-<ol>
-  Shorten any valid URL into a unique short link
-  Redirect short links to original URLs
-  Simple, clean, and responsive UI
-  Built with Django for scalability and security
-  Easy to deploy and customize
-</ol>
+
+  * Shorten any valid URL into a unique short link<br>
+  * Redirect short links to original URLs<br>
+  * Simple, clean, and responsive UI<br>
+  * Built with Django for scalability and security<br>
+  * Easy to deploy and customize<br>
+
 
 
 🛠️ Tech Stack
-<ol>
-  Backend: Python, Django
-  Database: SQLite
-  Frontend: HTML, CSS, Bootstrap
-</ol>
+
+  * Backend: Python, Django<br>
+  * Database: SQLite<br>
+  * Frontend: HTML, CSS, Bootstrap<br>
+
 
