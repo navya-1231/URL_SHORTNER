@@ -3,7 +3,7 @@ A simple and efficient URL shortener built with Python Django. This application 
 
 🚀 Features
 
-Shorten any valid URL into a unique short link
+Shorten any valid URL into a unique short link<br>
 Redirect short links to original URLs
 Simple, clean, and responsive UI
 Built with Django for scalability and security
